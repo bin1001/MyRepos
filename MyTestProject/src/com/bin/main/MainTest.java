@@ -6,7 +6,9 @@ public class MainTest {
 		System.out.println("Test..1234");
 		System.out.println("Cek..1234");
 		System.out.println("Garuda di dadaku");
+
 		System.out.println("Dewa 19");
+
 	}
 	
 }
